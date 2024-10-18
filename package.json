@@ -1,0 +1,24 @@
+{
+  "name": "com.stack.all-in-one",
+  "displayName": "All In One Toolkit",
+  "description": "All in one toolkit for Unity game development",
+  "version": "0.0.2",
+  "unity": "2017.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thestack836/all-in-one.git"
+  },
+  "author": {
+    "name": "thestack836",
+    "email": "thestack836@gmail.com",
+    "url": "https://github.com/thestack836/"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "Toolkit"
+  ],
+  "samples": [
+  ]
+}
