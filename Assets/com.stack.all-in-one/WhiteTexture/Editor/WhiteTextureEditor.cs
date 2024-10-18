@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEditor;
 using System.IO;
 
-namespace C98
+namespace allinone.editor
 {
     public static class WhiteTextureEditor
     {
