@@ -2,7 +2,7 @@
   "name": "com.stack.all-in-one",
   "displayName": "All In One Toolkit",
   "description": "All in one toolkit for Unity game development",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "unity": "2017.1",
   "license": "MIT",
   "repository": {
